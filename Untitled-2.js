@@ -81,4 +81,4 @@ function game (a){
         else console.log(i) }
 }
 const fzbz = game(15)
-console.log(fzbz)
+console.log(fzbz);
